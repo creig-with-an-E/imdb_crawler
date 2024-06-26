@@ -1,1 +1,2 @@
-Web scrapping imdb for content metadata
+# IMDB Web Crawler
+Web scrapping imdb for tv-series metadata.
